@@ -1,10 +1,12 @@
-# velo_user
+# post_user
 
 A new Flutter application.
-
-## Getting Started
-
 This project is a starting point for a Flutter application.
+
+App Points
+-User Login with mobile number and Guest account to access app directly
+-User add post and other user post listing show and some UI Demo
+
 
 A few resources to get you started if this is your first Flutter project:
 
